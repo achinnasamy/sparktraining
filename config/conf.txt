@@ -1,1 +1,1 @@
-spark-class org.apache.spark.deploy.worker.Worker spark://SCHMAC-TESTER-4.local:7077
+spark-class org.apache.spark.deploy.worker.Worker spark://Dharshekths-MBP:7077
